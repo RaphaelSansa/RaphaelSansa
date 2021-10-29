@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... AI marketing
 - 💞️ I’m looking to collaborate on ... some AI projects in realtion to gambling
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/raphael-da-eira-72055a173/
 
 <!---
 RaphaelSansa/RaphaelSansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
